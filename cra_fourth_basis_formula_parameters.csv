@@ -1,0 +1,6 @@
+Objective,Parameter,Weight_%,Description,Data_Source
+To share revenues equitably to facilitate service delivery,Population,42,"Population of each county based on 2019 Census",Kenya Population and Housing Census 2019
+To share revenues equitably to facilitate service delivery,Equal Share,22,Minimum allocation shared equally among all 47 counties,Constitutional provision for basic funding
+To share revenues equitably to facilitate service delivery,Geographical Size,9,"Land area in square kilometers, considers cost of service delivery across county territory",Kenya National Bureau of Statistics
+To share revenue equitably to address economic disparities and promote development,Poverty,14,"Poverty headcount rate - proportion of population below poverty line",Kenya Poverty Report 2022 (KNBS)
+To share revenue equitably to address economic disparities and promote development,Income Distance,13,"Income distance based on Gross County Product (GCP) per capita - incentivizes economic growth",Gross County Product Report 2023 (KNBS)
